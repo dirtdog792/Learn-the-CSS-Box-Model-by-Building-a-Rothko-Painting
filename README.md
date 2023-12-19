@@ -1,1 +1,1 @@
-learn the css box model
+learn box model
